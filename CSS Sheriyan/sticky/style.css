@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-start;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 200px;
+  border: 2px solid red;
+  padding: 10px;
+}
+.main {
+  flex: 1 0 0;
+  border: 10px solid gold;
+  padding: 10px;
+}

@@ -1,0 +1,25 @@
+/* .tab {
+  padding: 25px;
+  border-bottom: 5px solid white;
+} */
+
+.nav {
+  /* position: absolute; */
+  top: 0;
+  right: 0;
+  padding: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  gap: 20px;
+  /* border: 2px solid white;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px; */
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.right {
+  position: relative;
+  flex: 4;
+  height: 100%;
+  border: 2px solid white;
+  border-radius: 20px;
+  overflow-y: auto;
+  background-color: #1e1e1f;
+}
+.right::-webkit-scrollbar {
+  display: none;
+}
+.contain {
+  height: inherit;
+}
