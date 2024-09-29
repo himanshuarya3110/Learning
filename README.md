@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/himanshuarya3110/Learning/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
