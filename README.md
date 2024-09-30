@@ -7,6 +7,7 @@
 | [0274-h-index](https://github.com/himanshuarya3110/Learning/tree/master/0274-h-index) |
 | [0729-my-calendar-i](https://github.com/himanshuarya3110/Learning/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -48,6 +49,7 @@
 | [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/himanshuarya3110/Learning/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
+| [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
