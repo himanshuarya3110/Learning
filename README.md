@@ -8,6 +8,7 @@
 | [0729-my-calendar-i](https://github.com/himanshuarya3110/Learning/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
+| [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/himanshuarya3110/Learning/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
