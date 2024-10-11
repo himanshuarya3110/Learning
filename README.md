@@ -14,6 +14,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuarya3110/Learning/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuarya3110/Learning/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuarya3110/Learning/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -24,6 +25,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuarya3110/Learning/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuarya3110/Learning/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/himanshuarya3110/Learning/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuarya3110/Learning/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
