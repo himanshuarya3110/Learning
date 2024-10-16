@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuarya3110/Learning/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/himanshuarya3110/Learning/tree/master/1304-longest-happy-string) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuarya3110/Learning/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuarya3110/Learning/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -61,6 +62,7 @@
 | [0045-jump-game-ii](https://github.com/himanshuarya3110/Learning/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuarya3110/Learning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuarya3110/Learning/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/himanshuarya3110/Learning/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuarya3110/Learning/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuarya3110/Learning/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuarya3110/Learning/tree/master/3195-separate-black-and-white-balls) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuarya3110/Learning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/himanshuarya3110/Learning/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuarya3110/Learning/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuarya3110/Learning/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuarya3110/Learning/tree/master/2616-maximal-score-after-applying-k-operations) |
