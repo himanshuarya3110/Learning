@@ -61,6 +61,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/himanshuarya3110/Learning/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuarya3110/Learning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/himanshuarya3110/Learning/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuarya3110/Learning/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/himanshuarya3110/Learning/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuarya3110/Learning/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuarya3110/Learning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/himanshuarya3110/Learning/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
