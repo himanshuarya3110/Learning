@@ -38,6 +38,7 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuarya3110/Learning/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/himanshuarya3110/Learning/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuarya3110/Learning/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuarya3110/Learning/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuarya3110/Learning/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -139,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuarya3110/Learning/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuarya3110/Learning/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuarya3110/Learning/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuarya3110/Learning/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
