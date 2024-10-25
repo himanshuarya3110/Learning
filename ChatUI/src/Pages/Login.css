@@ -1,0 +1,5 @@
+/* styles.css */
+.btn,
+.input {
+  border-radius: 0.5rem; /* Adjust this value to maintain desired roundness */
+}
