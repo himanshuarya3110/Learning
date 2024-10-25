@@ -7,7 +7,7 @@ import Footer from "./UI/Footer";
 function App() {
   return (
     <>
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-7xl mx-auto">
         <NavBar />
         <Carousel />
         <Stat />
