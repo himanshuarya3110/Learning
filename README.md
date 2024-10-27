@@ -12,6 +12,7 @@
 | [1002-maximum-width-ramp](https://github.com/himanshuarya3110/Learning/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuarya3110/Learning/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/himanshuarya3110/Learning/tree/master/0045-jump-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -217,4 +219,8 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuarya3110/Learning/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/himanshuarya3110/Learning/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuarya3110/Learning/tree/master/2677-cousins-in-binary-tree-ii) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
