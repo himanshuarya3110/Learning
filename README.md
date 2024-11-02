@@ -52,6 +52,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/himanshuarya3110/Learning/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuarya3110/Learning/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/himanshuarya3110/Learning/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuarya3110/Learning/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuarya3110/Learning/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/himanshuarya3110/Learning/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
