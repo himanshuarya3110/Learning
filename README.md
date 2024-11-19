@@ -160,6 +160,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/himanshuarya3110/Learning/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuarya3110/Learning/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuarya3110/Learning/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -181,6 +182,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/himanshuarya3110/Learning/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/himanshuarya3110/Learning/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -232,4 +234,8 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/himanshuarya3110/Learning/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/himanshuarya3110/Learning/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
