@@ -13,6 +13,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuarya3110/Learning/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
@@ -99,6 +100,7 @@
 | [0729-my-calendar-i](https://github.com/himanshuarya3110/Learning/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/himanshuarya3110/Learning/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/himanshuarya3110/Learning/tree/master/0731-my-calendar-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuarya3110/Learning/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
@@ -185,6 +188,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/himanshuarya3110/Learning/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/himanshuarya3110/Learning/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/himanshuarya3110/Learning/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
