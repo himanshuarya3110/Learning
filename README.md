@@ -15,6 +15,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanshuarya3110/Learning/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/himanshuarya3110/Learning/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/himanshuarya3110/Learning/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuarya3110/Learning/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -35,6 +36,7 @@
 | [0432-all-oone-data-structure](https://github.com/himanshuarya3110/Learning/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuarya3110/Learning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1256-rank-transform-of-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuarya3110/Learning/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/himanshuarya3110/Learning/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -67,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/himanshuarya3110/Learning/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuarya3110/Learning/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/himanshuarya3110/Learning/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
